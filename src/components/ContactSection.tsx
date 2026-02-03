@@ -84,8 +84,8 @@ const ContactSection = () => {
     {
       icon: '📱',
       label: 'Phone',
-      value: '+91 XXXXX XXXXX',
-      href: 'tel:+91XXXXXXXXXX',
+      value: '+91 9030931824',
+      href: 'tel:+919030931824',
     },
     {
       icon: '💼',
