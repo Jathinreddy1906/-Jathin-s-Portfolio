@@ -90,8 +90,8 @@ const ContactSection = () => {
     {
       icon: '💼',
       label: 'LinkedIn',
-      value: 'linkedin.com/in/jathin',
-      href: 'https://linkedin.com',
+      value: 'linkedin.com/in/jathin-reddy',
+      href: 'https://linkedin.com/in/jathin-reddy-b260612b9',
     },
   ];
 
