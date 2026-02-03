@@ -78,8 +78,8 @@ const ContactSection = () => {
     {
       icon: '📧',
       label: 'Email',
-      value: 'jathin@example.com',
-      href: 'mailto:jathin@example.com',
+      value: 'jathinreddy85@gmail.com',
+      href: 'mailto:jathinreddy85@gmail.com',
     },
     {
       icon: '📱',
